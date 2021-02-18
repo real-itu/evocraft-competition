@@ -2304,8 +2304,8 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #34bfff;
-			/* color: #e9d630; */
+			/* color: #34bfff; */
+			color: #FCCA46;
 		}
 
 		.icon.style2:before {
